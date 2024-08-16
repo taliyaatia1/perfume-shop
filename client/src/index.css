@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.custom-dropdown-item {
+  color: gray;
+}
+
+.custom-dropdown {
+  
+  color: white !important;
+}
+
